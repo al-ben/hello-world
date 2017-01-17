@@ -4,6 +4,6 @@
 
 main()
 {
-    printf("Hello World");
+    puts("Hello World");
 
 }
